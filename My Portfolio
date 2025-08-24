@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Andri's Page</title>
+</head>
+<body style="font-family: Arial; text-align: center; background-color: #f5f5f5;">
+
+  <h1>👋 Hi, I’m Andri</h1>
+  <p>BCA Student | Exploring Python, Java & Web Dev</p>
+
+  <h2>About Me</h2>
+  <p>I love coding and uploading projects on GitHub 🚀</p>
+
+  <h2>Skills</h2>
+  <ul style="list-style: none;">
+    <li>Python</li>
+    <li>Java</li>
+    <li>C</li>
+    <li>HTML & CSS</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email: giteandrirakesh064@gmail.com</p>
+  <p>GitHub: <a href="https://github.com/AndriGite" target="_blank">AndriGite</a></p>
+
+</body>
+</html>
